@@ -1,7 +1,7 @@
 # Task 3 — Strengthening User Authentication & Data Security
 
 **Internee.pk Cybersecurity Internship — Task 3 of 3**
-**Author:** Soban Shehzad, University of Education, Lahore
+**Author:** Zunaira Shahzad, University of Education, Lahore
 
 ## 📌 Overview
 
